@@ -59,7 +59,7 @@
         }
         
         footer>a:hover {
-            opacity: 0.9;
+            opacity: 0.2;
         }
         
         ::selection {
@@ -128,7 +128,7 @@
             position: relative;
             color: white;
             font-size: 58px;
-            letter-spacing: .3em;
+            letter-spacing: .4em;
             animation: glitch-skew 1s infinite linear alternate-reverse;
         }
         
