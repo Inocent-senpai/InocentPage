@@ -1,1 +1,1 @@
-now at morte.lgbt ✈️
+now at suicidio.xyz ✈️
